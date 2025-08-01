@@ -1,0 +1,9 @@
+RSN,Earthquake,Year,Station,Magnitude,NGA_Duration_5_75_s,NGA_Duration_5_95_s,NGA_Arias_Intensity_ms,Source
+ 255," ""Mammoth Lakes-07""", 1980," ""USC Cash Baugh Ranch""",4.73,9.6,11.3,0.0,NGA-West2
+ 256," ""Mammoth Lakes-07""", 1980," ""USC McGee Creek Inn""",4.73,1.1,3.1,0.2,NGA-West2
+ 263," ""Mammoth Lakes-08""", 1980," ""USC Convict Lakes""",4.8,0.8,2.9,0.1,NGA-West2
+ 264," ""Mammoth Lakes-08""", 1980," ""USC McGee Creek Inn""",4.8,1.2,4.5,0.3,NGA-West2
+ 277," ""Mammoth Lakes-09""", 1980," ""USC Convict Lakes""",4.85,1.8,6.3,0.0,NGA-West2
+ 278," ""Mammoth Lakes-09""", 1980," ""USC McGee Creek""",4.85,1.8,6.1,0.1,NGA-West2
+ 672," ""Whittier Narrows-01""", 1987," ""Pacoima Kagel Canyon USC""",5.99,6.2,10.4,0.2,NGA-West2
+ 3731," ""Whittier Narrows-02""", 1987," ""Pacoima Kagel Canyon USC""",5.27,4.8,9.5,0.0,NGA-West2
